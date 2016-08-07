@@ -2,4 +2,4 @@
 
 Documentation follows..
 
-![alt text](screenshots/ssd.png "Description goes here")
+!['Seven segments display with raspberry-pi'](screenshots/ssd.png "Displaying single digit numbers using with seven segments display on breadboard with raspberry-pi and python")

@@ -29,11 +29,3 @@ def countDown():
 
 ### Display Countdown
 countDown()
-
-
-
-### Test
-class test(unittest.TestCase):
-    def test(self):
-        print countDown()
-        self.assertEqual(countDown(), 7)
